@@ -27,11 +27,13 @@ This project is a real-time chat application built with React, Socket.io, and Vi
    cd chat-app
 
 2. Frontend App 
+    ```bash
     cd chat-frontend
     npm install
     npm run dev
 
 3. Backend App
+    ```bash
     cd chat-backend
     npm install
     npm start
